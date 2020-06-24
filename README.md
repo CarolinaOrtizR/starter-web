@@ -1,7 +1,6 @@
 # Starter Web Repo
-
+Adding a line for stash example
 This repository is for showing how Git and GitHub work
-Adding a line for rebasing example
 
 ## Purpose
 
